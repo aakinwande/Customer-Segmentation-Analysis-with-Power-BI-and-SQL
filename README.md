@@ -29,6 +29,6 @@ This project leverages the combined capabilities of Power BI and SQL for in-dept
 
 
 # Conclusion
-Through the integration of Power BI for visualization and SQL for data preparation, this project has provided valuable insights into customer segmentation and behavior. By analyzing demographic data, purchasing patterns, and satisfaction metrics, we've identified key trends and preferences among our customer base. These insights are crucial for optimizing marketing strategies, improving customer satisfaction, and driving business growth.< br />< br />
+Through the integration of Power BI for visualization and SQL for data preparation, this project has provided valuable insights into customer segmentation and behavior. By analyzing demographic data, purchasing patterns, and satisfaction metrics, we've identified key trends and preferences among our customer base. These insights are crucial for optimizing marketing strategies, improving customer satisfaction, and driving business growth.
 
 
