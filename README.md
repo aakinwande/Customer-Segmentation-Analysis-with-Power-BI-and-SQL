@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis-with-Power-BI-and-SQL
+# Customer Segmentation Analysis with Power BI and SQL
 This project leverages the combined capabilities of Power BI and SQL for in-depth customer segmentation analysis. The dataset used includes customer demographics, purchase behavior, satisfaction ratings, and more. SQL queries were employed to extract and transform data from the database into CSV files, which were then analyzed and visualized using Power BI. The goal is to derive actionable insights to optimize marketing strategies, enhance customer retention, and improve overall business performance.
 
 # Insights Derived
